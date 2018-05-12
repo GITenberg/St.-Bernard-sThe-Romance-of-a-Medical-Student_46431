@@ -1,0 +1,30 @@
+_repo: St.-Bernard-sThe-Romance-of-a-Medical-Student_46431
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46431-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Berdoe, Edward
+    aliases:
+    - Scalpel, Aesculapius
+    - Scalpel, Æsculapius
+    birthdate: 1836
+    deathdate: 1916
+    gutenberg_agent_id: '38449'
+    url: http://www.gutenberg.org/2009/agents/38449
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Berdoe
+description: ''
+gutenberg_issued: '2014-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46431'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Medical students -- Fiction'
+title: 'St. Bernard''s: The Romance of a Medical Student'
+url: http://www.gutenberg.org/ebooks/46431
